@@ -4,3 +4,6 @@ ours
 they
 we
 our
+them
+yours
+us
